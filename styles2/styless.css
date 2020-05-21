@@ -1,0 +1,115 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Source Serif Pro', serif;
+}
+
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  font-size: 70px;
+  margin: auto auto 40px auto;
+}
+h2{
+     color: #66BFBF;
+    font-size: 30px;
+    font-weight: normal;
+    line-height: 4;
+}
+h3{
+  color: #11999E;
+}
+hr{
+
+background-color: white;;
+border-style: none;
+border-top: dotted 5px;
+border-color: #EAF6F6;
+margin-top: 50px;
+width: 3%;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+padding: 50px;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.faiza{
+  border-radius: 50%;
+}
+.skill{
+  width: 25%;
+float: left;
+margin-right: 50px;
+}
+
+.bottom-cloud{
+  position: relative;
+  bottom: 250px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px;
+}
+.top-cloud{
+  position: relative;
+  left: 200px;
+  top: 30px;
+}
+.mountain{
+  position: relative;
+  top: 55px;
+  right: 10px;
+}
+.cube{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+.btn{
+  color: #11999E;
+}
+.data{
+  color: #40514E;
+width: 50%;
+margin: auto;
+}
+
+.footer{
+  color: #EAF6F6;
+}
+.footer-link{
+  color: #11999E;
+}
+.contact-me{
+margin-bottom: 50px;
+border-top: 50px;
+}
+.myButton {
+	box-shadow: 0 10 14 -7 ;
+	background:linear-gradient(top bottom, #8eb0bd 5%, #11999E 100%);
+	background-color: #11999E;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1 0 #11999E;
+  margin-top: 50px;
+}
+.middle-container{
+  margin: 20px auto;
+}
